@@ -1,16 +1,14 @@
 [
   {
-    "name": "Nexora Official Server",
     "ip": "152.42.198.111",
-    "port": "3030",
-    "mode": "Roleplay v1.0",
-    "players": "45 / 100"
+    "port": "3030"
   },
   {
-    "name": "Nexora Training Zone",
+    "ip": "51.254.139.153",
+    "port": "7777"
+  },
+  {
     "ip": "144.217.19.105",
-    "port": "7777",
-    "mode": "DM/Stunt",
-    "players": "12 / 50"
+    "port": "7777"
   }
 ]
