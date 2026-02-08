@@ -1,6 +1,8 @@
-[
-  {
-    "ip": "nexora.role-play.online",
-    "port": "7777"
-  }
-]
+{
+  "servers": [
+    {
+      "ip": "nexora.role-play.online",
+      "port": "7777"
+    }
+  ]
+}
